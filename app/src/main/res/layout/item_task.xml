@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear_detail_activity"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textview_task_title"
+        tools:text="Text Sample"
+        style="@style/Title3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/textview_task_description"
+        tools:text="Long description to test UI a little bit more"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Body1"
+        android:layout_marginBottom="8dp"
+        />
+
+</LinearLayout>

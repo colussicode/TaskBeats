@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskBeats</string>
+    <string name="title_activity_task_detail">TaskDetailActivity</string>
+    <string name="add_task_button">Add task button</string>
+    <string name="t_tulo_da_tarefa">Título da tarefa</string>
+    <string name="descri_o_da_tarefa">Descrição da tarefa</string>
+    <string name="task_title">Task title</string>
+    <string name="add_a_title_for_your_task">Add a title for your task</string>
+    <string name="task_description">Task description</string>
+    <string name="add_a_description_for_your_task">Add a description for your task</string>
+    <string name="add">Add</string>
+</resources>
