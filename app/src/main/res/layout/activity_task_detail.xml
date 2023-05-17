@@ -5,7 +5,7 @@
     android:id="@+id/linear_detail_activity"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    tools:context=".TaskDetailActivity"
+    tools:context=".presentation.TaskDetailActivity"
     >
 
     <include layout="@layout/toolbar"/>
